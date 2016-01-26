@@ -1,0 +1,1 @@
+A small library for C# 3.0 and .NET 3.5 providing easy and good-looking C# syntax for building SQL statements
